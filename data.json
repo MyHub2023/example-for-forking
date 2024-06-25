@@ -1,0 +1,14 @@
+[
+  {
+    name: "Mosh",
+    age: 10
+  },
+  {
+    name: "Smith",
+    age: 20
+  },
+  {
+    name: "Max",
+    age: 15
+  }
+]
